@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 "je connais pas de toute facon ce jeu est raciste" 
 "va jouer a celeste grosse merde"
 "au lieu de passer ta vie sur lol"
 
 mise à jour é
+=======
+1 Jean 
+2 michel 
+3 Jacky 
+>>>>>>> 5c8bbcd7f6b19762d40b34b9f4b84e282ba761fb
