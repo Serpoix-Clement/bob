@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-Jean / michel / jacky
-=======
-"je connais pas de toute fa‡on ce jeu est raciste" 
-"va jouer à celeste grosse merde"
-"au lieu de passer ta vie sur lol"
->>>>>>> 7632f530477a4965ef15698be7757bd22ef8802a
+1 Jean 
+2 michel 
+3 Jacky 
